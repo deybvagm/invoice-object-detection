@@ -1,0 +1,12 @@
+item {
+	id: 1
+	name: 'header'
+}
+item {
+	id: 2
+	name: 'date'
+}
+item {
+	id: 3
+	name: 'total'
+}
